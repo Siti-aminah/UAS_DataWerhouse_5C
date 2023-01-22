@@ -1,0 +1,9 @@
+.banner {
+	background-image: url('../static/prediksi.jpg');
+	height: 60vh;
+	background-size: cover;
+	position: relative;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
